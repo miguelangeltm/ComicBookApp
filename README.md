@@ -14,9 +14,11 @@ made a gh-pages deployment too (https://mikevitamina.github.io/ComicBookApp/) BU
 https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino
 
 Grid View
+
 ![image](https://user-images.githubusercontent.com/43521047/143325949-db0a4bc5-f43a-4a4a-b3eb-e9a8667cc3bc.png)
 
 List View
+
 ![image](https://user-images.githubusercontent.com/43521047/143325998-0d351fec-3c8c-4240-a0ee-8bbb41769b14.png)
 
 Details View
