@@ -1,0 +1,6 @@
+h4 {
+    max-width: 45ch;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    white-space: nowrap;
+  }
