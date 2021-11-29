@@ -1,8 +1,14 @@
-# ComicBookApp
+# ComicBookApp v1.1
+
+## Upgrades
+● Atomic Design Refactor
+● React Router for changing views 
+
+## Description
 
 It's an app made in ReactJS which has 2 views:
 
-●Show a list of the last comics (grid/list view mode)
+● Show a list of the last comics (grid/list view mode)
 
 ● Show a detail of the selected comic
 
