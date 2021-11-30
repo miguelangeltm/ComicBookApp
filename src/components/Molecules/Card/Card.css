@@ -11,20 +11,7 @@
   color: rgba(10, 17, 39, 0.741);
   
 }
-h4 {
-  max-width: 45ch;
-  overflow: hidden;
-  text-overflow: ellipsis; 
-  white-space: nowrap;
-}
 
-.cover {
-  
-  position: relative;
-  border-radius: 8px;
-  height: 330px;
-  width: 230px;
-}
 
 .card.list {
   width: calc(100% - 20px);
@@ -52,13 +39,6 @@ h4 {
     height: 300px;
   }
 
-  .cover {
-  
-    position: relative;
-    border-radius: 8px;
-    height: 150px;
-    width: 100px;
-  }
 
 }
 
@@ -70,17 +50,6 @@ h4 {
     height: 170px;
   }
 
-  .cover {
-  
-    position: relative;
-    border-radius: 8px;
-    height: 90px;
-    width: 50px;
-  }
 
-  h4, p{
-    font-size: 9px;
-    height:9px;
-  }
 
 }
