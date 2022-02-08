@@ -1,9 +1,0 @@
-button {
-    margin-top: 40%;
-    border: none;
-    background: none;
-  }
-  
-  button.active {
-    color: rgb(120, 247, 78);
-  }
