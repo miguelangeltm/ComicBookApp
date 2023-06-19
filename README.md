@@ -15,7 +15,7 @@ It's an app made in ReactJS which has 2 views:
 I consume the restful API of Comic Vine which is the largest comic database online. Here is the API documentation:
 https://comicvine.gamespot.com/api/documentation
 
-made a gh-pages deployment too: https://mikevitamina.github.io/ComicBookApp/ , however, i got some CORS policy trouble with the API. You should need a CORS proxy to make it work. I have used a Chrome Plugin call 'CORS Unblock':
+made a gh-pages deployment too: https://miguelangeltm.github.io/ComicBookApp/ , however, i got some CORS policy trouble with the API. You should need a CORS proxy to make it work. I have used a Chrome Plugin call 'CORS Unblock':
 
 https://chrome.google.com/webstore/detail/cors-unblock/lfhmikememgdcahcdlaciloancbhjino
 
